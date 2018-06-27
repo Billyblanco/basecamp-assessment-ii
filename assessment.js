@@ -6,7 +6,7 @@ let me = {
   age: 23,
   state: "Utah"
 }
-
+console.log(me);
 // #2 Add a new key/value pair to the me object using dot notation. The new key should be 'faveColor' and set it to your favorite color as a string
 
 //CODE HERE
